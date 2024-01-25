@@ -18,7 +18,13 @@
 	<img src="https://img.shields.io/badge/telegram-blue?style=for-the-badge&logo=telegram"/>
 <a/>
 <div/>
-
+	
+<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
+<div align="center">
+	<img src="https://skillicons.dev/icons?i=cs,dotnet,c,python,js,ts"/><br/>
+	<img src="https://skillicons.dev/icons?i=postgresql,mysql,redis,docker,git,postman"/><br/>
+	<img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,angular,vscode,visualstudio"/>
+<div/>
 
  
 <!--
