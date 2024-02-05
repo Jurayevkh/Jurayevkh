@@ -4,7 +4,7 @@
 
 <h3 align="center">A disciplined and curious programmer from Uzbekistan🇺🇿<h3/>
 
-- 🔭 I’m currently working on [Pizzeria Personal Project](https://github.com/Jurayevkh/Pizzeria)
+- 🔭 I’m currently working on Find Near Mosque
 - 🌱 I’m currently learning  *Angular, SignalR, RabbitMQ,*
 - 💬 Ask me about **.NET, C# and TypeScript**
 - 📫 How to reach me: jurayevkh@gmail.com
