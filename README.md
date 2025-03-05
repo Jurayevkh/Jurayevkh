@@ -8,7 +8,6 @@
 - 🌱 I’m currently learning  *Angular, SignalR, RabbitMQ,*
 - 💬 Ask me about **.NET, C# and TypeScript**
 - 📫 How to reach me: jurayevkh@gmail.com
-- 😄 Pronouns: he/him
 - ⚡ Fun fact: TARS, the AI machine in Interstellar, is real.
 
 
